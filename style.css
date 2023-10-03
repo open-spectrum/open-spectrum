@@ -11,14 +11,17 @@
 }
 
 header{
+    background-color: black;
     padding: 30px;
     text-align: center;
     font-family: var(--title);
+    /*
     background-attachment: fixed;
     background-image: url('images/back.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: none;
+    */
     margin-bottom: 50px;
     color: white;
 }
