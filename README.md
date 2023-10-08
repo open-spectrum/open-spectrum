@@ -3,7 +3,7 @@
 Projects 
 <br>
 <h3>blog:</h3> https://blog-nodejs-1d7h.onrender.com
-<h4>desc: blog completo com editor de texto tinymce, crie,delete,edite e leia artigos</h4>
+<h4>descrição  blog completo com editor de texto tinymce, crie,delete,edite e leia artigos</h4>
 <br> para criar acesse a rota: https://blog-nodejs-1d7h.onrender.com/articles
 <br> e apenas um projeto teste bugs podem acontecer, para ativar o sistema de autenticação va em middlewars em authUser e apague os */ /*
 <!--
