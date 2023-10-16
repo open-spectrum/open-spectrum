@@ -1,8 +1,12 @@
-### Hi there 👋
+### Olá 👋
 ![rnzim GitHub stats](https://github-readme-stats.vercel.app/api?username=rnzim&show_icons=true&bg_color=00000000)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnzim&hide_progress=false)
+
+###Tecnologias Que Uso No Meu Dia a Dia
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 Projects 
 <br>
 <h3>blog:</h3> https://blog-nodejs-1d7h.onrender.com
