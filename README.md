@@ -17,6 +17,7 @@
   <br>
 Projects 
 <br>
+<h3>Chat Global: https://chat-global.onrender.com/
 <h3>blog:</h3> https://blog-nodejs-1d7h.onrender.com
 <h4>descrição  blog completo com editor de texto tinymce, crie,delete,edite e leia artigos</h4>
 <br> para criar acesse a rota: https://blog-nodejs-1d7h.onrender.com/articles
