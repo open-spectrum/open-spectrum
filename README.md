@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnzim&hide_progress=false)
 
-<h3>Tecnologias Que Uso No Meu Dia a Dia
+
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </img>
@@ -15,6 +15,6 @@
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 <hr>  
   <br>
-Projects 
+Projetos(em breve...)
 <br>
 <h3>Chat Global: https://chat-global.onrender.com/
