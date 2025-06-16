@@ -7,7 +7,7 @@
 <p align="center">
   🧪 Dev backend apaixonado por Python<br>
   🔥 Explorando Flask, Django, automações e segurança<br>
-  🎮 Também brinco com gamedev na Godot, e adoro entender como tudo funciona por trás dos panos
+  🎮 Também brinco com gamedev na Godot
 </p>
 
 ---
@@ -43,21 +43,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rnzim&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🌍 Onde me encontrar
-
-<p align="center">
-  <a href="mailto:seuemail@exemplo.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://t.me/seuusername">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
 
 ---
 
