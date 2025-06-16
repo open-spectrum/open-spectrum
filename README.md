@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o rnzim 👋</h1>
+<h1 align="center">Olá, Pode Me Chamar De 👤Spectrum🌈 👋</h1>
 
 <p align="center">
   <img src="https://github.com/SrXitme/SrXitme/blob/main/20230410_171501.gif" width="200" alt="GIF animado">
