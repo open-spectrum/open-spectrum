@@ -1,13 +1,12 @@
-<h1 align="center">Olá, Pode Me Chamar De 👤Spectrum🌈 👋</h1>
+<h1 align="center">👋 Olá, pode me chamar de <strong>Spectrum</strong> 🌈</h1>
+<p align="center">
+  <img src="https://github.com/open-spectrum/open-spectrum/blob/main/images/shadow.png" alt="Banner" />
+</p>
 
-
-  <img src="https://github.com/open-spectrum/open-spectrum/blob/main/images/shadow.png">
-
-
-<p>
-  🧪 Dev backend apaixonado por Python<br>
-  🔥 Explorando Flask, Django, automações e segurança<br>
-  🎮 Também brinco com gamedev na Godot
+<p align="center">
+  🧪 Desenvolvedor backend apaixonado por <strong>Python</strong><br>
+  🔥 Explorando <strong>Flask</strong>, <strong>Django</strong>, automações e segurança<br>
+  🎮 Também me aventuro no <strong>gamedev</strong> com a engine Godot
 </p>
 
 ---
@@ -15,45 +14,48 @@
 ### 🛠️ Tecnologias que uso
 
 <p>
-  <!-- Python -->
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
   
-  <!-- Web e frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   
   <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 
   <!-- GameDev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estatísticas do GitHub
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rnzim&show_icons=true&theme=tokyonight&bg_color=00000000" alt="rnzim GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rnzim&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### ⚡ Curiosidades
+
+- 🐍 Python é meu canivete suíço favorito  
+- 🎮 Me divirto quebrando e criando jogos  
+- 🛡️ Interessado em segurança da informação e engenharia reversa (ethical hacking only)
 
 ---
 
-### ⚡ Fun Facts
+### 💬 Bora conversar?
 
-- 🐍 Python é meu canivete suíço
-- 🎮 Me divirto quebrando e criando jogos
-- 🛡️ Me interesso por segurança e engenharia reversa (ethical hacking only)
+Sinta-se à vontade para me chamar — sempre aberto para trocar ideias e colaborar! 😄
 
 ---
 
-### 💬 Quer conversar?
-
-Manda um "oi" e bora trocar ideia! 😄
+Se quiser, posso adaptar para inglês ou fazer uma versão multilíngue também. Deseja isso?
