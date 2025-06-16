@@ -1,10 +1,10 @@
 <h1 align="center">Olá, Pode Me Chamar De 👤Spectrum🌈 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/SrXitme/SrXitme/blob/main/20230410_171501.gif" width="200" alt="GIF animado">
-</p>
 
-<p align="center">
+  <img src="https://github.com/open-spectrum/open-spectrum/blob/main/images/shadow.png">
+
+
+<p>
   🧪 Dev backend apaixonado por Python<br>
   🔥 Explorando Flask, Django, automações e segurança<br>
   🎮 Também brinco com gamedev na Godot
@@ -14,7 +14,7 @@
 
 ### 🛠️ Tecnologias que uso
 
-<p align="center">
+<p>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
@@ -37,7 +37,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=rnzim&show_icons=true&theme=tokyonight&bg_color=00000000" alt="rnzim GitHub stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rnzim&theme=tokyonight&hide_border=true" />
