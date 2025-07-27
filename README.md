@@ -58,4 +58,3 @@ Sinta-se à vontade para me chamar — sempre aberto para trocar ideias e colabo
 
 ---
 
-Se quiser, posso adaptar para inglês ou fazer uma versão multilíngue também. Deseja isso?
