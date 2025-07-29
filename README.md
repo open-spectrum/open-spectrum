@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, pode me chamar de <strong>Spectrum</strong> 🌈</h1>
 <p align="center">
-  <img src="https://github.com/open-spectrum/open-spectrum/blob/main/images/shadow.png" alt="Banner" />
+  <img src="https://avatars.githubusercontent.com/u/144294493?v=4" alt="Banner" />
 </p>
 
 <p align="center">
