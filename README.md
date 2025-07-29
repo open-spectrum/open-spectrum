@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
 
-  <!-- GameDev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" alt="Godot" />
 </p>
 
 ---
@@ -47,7 +45,6 @@
 ### ⚡ Curiosidades
 
 - 🐍 Python é meu canivete suíço favorito  
-- 🎮 Me divirto quebrando e criando jogos  
 - 🛡️ Interessado em segurança da informação e engenharia reversa (ethical hacking only)
 
 ---
